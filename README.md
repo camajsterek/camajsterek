@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Chris.  Just learning how GitHub works.  If this is never updated again, I wouldn't be shocked, no matter how much I end up using GitHub.
 <!--
 **camajsterek/camajsterek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
